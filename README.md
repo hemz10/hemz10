@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Hemanth
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Selenium & Python
+- 🌱 I’m currently learning selenium with python using Hybrid Framework
+- 💞️ I’m looking to collaborate on automation using python
+- 📫 You can reach me through kumarhemanth012@gmail.com
+
 
 
 <!---
