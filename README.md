@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemz10&theme=gotham&show_icons=true&count_private=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemz10&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hemz10)](https://git.io/streak-stats)
