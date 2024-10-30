@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hemanth
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning selenium with python using Pytest Framework
-- 💞️ I’m looking to collaborate on automation using python
+- 💞️ I’m looking to collaborate on automation using python, Golang and projects related to blockchains
 - 📫 You can reach me through kumarhemanth012@gmail.com
 
 
