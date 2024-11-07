@@ -1,8 +1,15 @@
 ![Header](./github-header-image.png)
 
 ### Hi there !!! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+Welcome to my GitHub profile! I'm a passionate coder with a love for automation and efficient solutions. Here are a few things about me:
 - 👀 I’m interested in Automation Testing and tool development
 - 💞️ I’m looking to collaborate on automation using python, Golang and projects related to blockchains
+- 💼 Currently part of an amazing Automation Testing team
+- 🌱 Always exploring new technologies and best practices
+- 🎯 Creating reliable and scalable tests to ensure high-quality software releases
+- 💬 Feel free to reach out if you want to collaborate or just say hi!
+
+I'm always excited to take on new challenges and contribute to important projects. Let's build something amazing together!
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
