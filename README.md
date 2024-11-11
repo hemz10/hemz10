@@ -20,6 +20,7 @@ I'm always excited to take on new challenges and contribute to important project
 <br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemz10&theme=tokyonight)
 <br />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemz10&theme=tokyonight" alt="Repos per language">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemz10&theme=tokyonight)
 <br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hemz10&theme=tokyonight&utcOffset=5)
